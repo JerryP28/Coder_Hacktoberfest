@@ -22,6 +22,7 @@ def display_board():
 
 # Play the game of TIC TAC TOE
 def play_game(): 
+         def play_game(): 
 
   # Display the initial board
   display_board()
